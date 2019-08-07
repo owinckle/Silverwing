@@ -1,0 +1,375 @@
+{"champions": 
+	[
+		{
+			"name": "Aatrox",
+			"tier": 3,
+			"class": ["Demon", "Blademaster"],
+			"ability": "Slams forward, dealing 250 / 600 / 950 magic damage to all enemies in a circle.",
+			"img": "https://i.imgur.com/kKEo2NI"
+		},
+		{
+			"name": "Ahri",
+			"tier": 2,
+			"class": ["Wild", "Sorcerer"],
+			"ability": "Fire an orb in a 5-hex line that then returns, dealing 100 / 200 / 300 magic damage to enemies in each pass.",
+			"img": "https://i.imgur.com/HkrD6Hh"
+		},
+		{
+			"name": "Anivia",
+			"tier": 5,
+			"class": ["Glacial", "Elementalist"],
+			"ability": "Channels a large hailstorm for 8 seconds, dealing 87.5 / 118.75 / 150 magic damage each second and slowing the attack speed of enemies inside it by 50 / 70 / 90%. The storm can deal a total of 700 / 950 / 1200 magic damage, and is not canceled when she dies.",
+			"img": "https://i.imgur.com/T4QgJXS"
+		},
+		{
+			"name": "Ashe",
+			"tier": 3,
+			"class": ["Glacial", "Ranger"],
+			"ability": "Fires an arrow that Stun icon stuns and deals 200 / 400 / 600 magic damage to the first enemy hit. The stun lasts 1 / 1.5 / 2 seconds per hex traveled.",
+			"img": "https://i.imgur.com/1OZZrbq"
+		},
+		{
+			"name": "Aurelion Sol",
+			"tier": 4,
+			"class": ["Dragon", "Sorcerer"],
+			"ability": "After a 0.35-second delay, deals 250 / 500 / 750 magic damage to all enemies in a line.",
+			"img": "https://i.imgur.com/MQGkjvf"
+		},
+		{
+			"name": "Blitzcrank",
+			"tier": 2,
+			"class": ["Robot", "Brawler"],
+			"ability": "Pulls the farthest enemy into melee range, Stun icon stunning them for 2.5 seconds and dealing 100 / 450 / 800 magic damage. Additionally his next basic attack Airborne icon knocks up the target.",
+			"img": "https://i.imgur.com/WdlkdBs"
+		},
+		{
+			"name": "Brand",
+			"tier": 4,
+			"class": ["Demon", "Elementalist"],
+			"ability": "Unleashes a fireball that bounces 4 / 6 / 20 times between enemies, dealing 200 / 375 / 550 magic damage with each bounce.",
+			"img": "https://i.imgur.com/XlqyN59"
+		},
+		{
+			"name": "Braum",
+			"tier": 2,
+			"class": ["Glacial", "Guardian"],
+			"ability": "Raises a barrier for 4 seconds that redirects all incoming damage to Braum, and reduces the damage he takes through the shield by 70 / 80 / 90%.",
+			"img": "https://i.imgur.com/vgMwyte"
+		},
+		{
+			"name": "Camille",
+			"tier": 1,
+			"class": ["Hextech", "Blademaster"],
+			"ability": "Singles out an enemy, dealing 75 / 200 / 325 magic damage and Root icon rooting them for 4 / 5 / 6 seconds. Her team will prioritize attacking that enemy.",
+			"img": "https://i.imgur.com/MY6ywht"
+		},
+		{
+			"name": "Cho'Gath",
+			"tier": 4,
+			"class": ["Void", "Brawler"],
+			"ability": "After a 1.5-second delay, deals 200 / 400 / 600 magic damage and Airborne icon knocks up all enemies in a 3x3 area, Stun icon stunning them for 1.5 / 1.75 / 2 seconds.",
+			"img": "https://i.imgur.com/6mkeIRP"
+		},
+		{
+			"name": "Darius",
+			"tier": 1,
+			"class": ["Imperial", "Knight"],
+			"ability": "After a small delay, deals 150 / 200 / 250 magic damage to all nearby enemies and heals himself for 100 / 150 / 200 health for each enemy hit.",
+			"img": "https://i.imgur.com/ESWhtPN"
+		},
+		{
+			"name": "Draven",
+			"tier": 4,
+			"class": ["Imperial", "Blademaster"],
+			"ability": "Draven starts spinning his axe, causing his next basic attack to gain 50 / 100 / 150% bonus on-hit physical damage and 100% attack speed for 5.75 seconds, stacking up to two times.\nThe spinning axe ricochets off the target high up into the air, landing 2 seconds later at Draven's current position.\nIf Draven catches an axe, Spinning Axe is reapplied for no additional cost on his next basic attack. Draven can hold up to two Spinning Axes in his hands at once.",
+			"img": "https://i.imgur.com/hrkFeWK"
+		},
+		{
+			"name": "Elise",
+			"tier": 1,
+			"class": ["Demon", "Shapeshifter"],
+			"ability": "Summons 1 / 2 / 4 Spiderlings with 500 health, and transforms into a Melee role melee attacker for 60 seconds, gaining 60 / 90 / 120% life steal. The Spiderlings can gain the Demon TFT icon Demon bonus.",
+			"img": "https://i.imgur.com/0dwOPwd"
+		},
+		{
+			"name": "Evelynn",
+			"tier": 3,
+			"class": ["Demon", "Assassin"],
+			"ability": "Roots the 3 closest enemies for 0.35 seconds, after which deals 200 / 300 / 400 magic damage to the 3 closest enemies and blinks back 3 hexes. Damage is increased to 600 / 1500 / 2800 against enemies below 65% health.",
+			"img": "https://i.imgur.com/ZPnJyWJ"
+		},
+		{
+			"name": "Fiora",
+			"tier": 1,
+			"class": ["Noble", "Blademaster"],
+			"ability": "Becomes immune to damage and spells for 1.5 seconds, and then Stun icon stuns for 1.5 seconds and deals 100 / 250 / 400 magic damage to the closest enemy.",
+			"img": "https://i.imgur.com/cTO9sS3"
+		},
+		{
+			"name": "Gangplank",
+			"tier": 3,
+			"class": ["Noble", "Blademaster"],
+			"ability": "Periodically spawns Powder Kegs.\nACTIVE: Detonates all active Powder Kegs, applying on-hit effects and dealing 200 / 325 / 450 magic damage to enemies caught in the blast.",
+			"img": "https://i.imgur.com/YOhq4NJ"
+		},
+		{
+			"name": "Garen",
+			"tier": 1,
+			"class": ["Noble", "Knight"],
+			"ability": "Spins his sword around his body for 4 seconds, becoming immune to magic damage and dealing 40 / 65 / 90 magic damage to nearby enemies each half-second. The spins can deal a total of 360 / 585 / 810 magic damage.",
+			"img": "https://i.imgur.com/KAADJVj"
+		},
+		{
+			"name": "Gnar",
+			"tier": 4,
+			"class": ["Wild", "Yordle", "Shapeshifter"],
+			"ability": "Transforms into a Melee role melee attacker for 60 seconds, gaining 300 / 600 / 900 health, 30 / 60 / 90 attack damage, jumping behind the farthest enemy and then Airborne icon shunts all surrounding enemies 2 hexes toward his team, Stun icon stunning them for 2 seconds and dealing 200 / 300 / 400 magic damage.",
+			"img": "https://i.imgur.com/CMmp2Lr"
+		},
+		{
+			"name": "Graves",
+			"tier": 1,
+			"class": ["Pirate", "Gunslinger"],
+			"ability": "Basic attacks deal 5 / 10 / 15% increased physical damage and hit all enemies in a 2-hex cone.",
+			"img": "https://i.imgur.com/8VkzRaM"
+		},
+		{
+			"name": "Jayce",
+			"tier": 2,
+			"class": ["Hextech", "Shapeshifter"],
+			"ability": "Knock away an enemy in melee range, dealing 150 / 225 / 300 magic damage and Stun icon stunning them for 2.5 / 4.25 / 6 seconds. Then transforms into a Ranged role ranged attacker with 4-hex range for 60 seconds, gaining maximum attack speed for his next 3 / 5 / 7 basic attacks.",
+			"img": "https://i.imgur.com/uVlBy78"
+		},
+		{
+			"name": "Jinx",
+			"tier": 4,
+			"class": ["Pirate", "Gunslinger"],
+			"ability": "After her first takedown, gains 75 / 100 / 125% attack speed.\nAfter her second takedown, she pulls out Switcheroo! Fishbones enhancing her basic attacks to deal 100 / 225 / 350 bonus magic damage to her target and adjacent enemies.",
+			"img": "https://i.imgur.com/Yh7MzIG"
+		},
+		{
+			"name": "Karthus",
+			"tier": 5,
+			"class": ["Phantom", "Sorcerer"],
+			"ability": "Channel for 3 seconds to deal 400 / 700 / 1000 magic damage to 5 / 9 / 13 random enemies.",
+			"img": "https://i.imgur.com/HdewWGW"
+		},
+		{
+			"name": "Kassadin",
+			"tier": 1,
+			"class": ["Void", "Sorcerer"],
+			"ability": "Basic attacks reduce target's current mana by 20 / 40 / 60, granting a shield for the same amount lasting 4 seconds.",
+			"img": "https://i.imgur.com/e96o2IL"
+		},
+		{
+			"name": "Katarina",
+			"tier": 3,
+			"class": ["Void", "Sorcerer"],
+			"ability": "Channels for 2.5 seconds and fires daggers at 4 / 6 / 8 nearby enemies, dealing 40 / 60 / 80 magic damage per tick and applying Grievous Wounds icon Grievous Wounds, reducing healing on them for 3 seconds. The channel can deal a total of 600 / 900 / 1200 magic damage.",
+			"img": "https://i.imgur.com/prC3r31"
+		},
+		{
+			"name": "Kayle",
+			"tier": 5,
+			"class": ["Noble", "Knight"],
+			"ability": "Target the 1 / 2 / 3 weakest allies, making them immune to damage for 2 / 3 / 4 seconds.",
+			"img": "https://i.imgur.com/tJfX5Cj"
+		},
+		{
+			"name": "Kennen",
+			"tier": 3,
+			"class": ["Ninja", "Yordle"],
+			"ability": "Summons a storm around him for 3 seconds, dealing 32.14 / 64.29 / 96.43 magic damage each 0.5 seconds to nearby enemies, Stun icon stunning for 1.5 seconds them after 3 hits. The storm can deal a total of 225 / 450 / 675 magic damage.",
+			"img": "https://i.imgur.com/rMngls6"
+		},
+		{
+			"name": "Kha'Zix",
+			"tier": 1,
+			"class": ["Void", "Assassin"],
+			"ability": "Deals 150 / 300 / 450 magic damage to the target enemy. Instead deals 400 / 600 / 800 magic damage if they have no allies adjacent to them.",
+			"img": "https://i.imgur.com/3AJt6hF"
+		},
+		{
+			"name": "Kindred",
+			"tier": 4,
+			"class": ["Phantom", "Ranger"],
+			"ability": "Creates a zone around herself for 4 / 5 / 6 seconds that prevents nearby allies from losing health at 300 / 600 / 900 or below.",
+			"img": "https://i.imgur.com/xa4HDfQ"
+		},
+		{
+			"name": "Leona",
+			"tier": 4,
+			"class": ["Noble", "Guardian"],
+			"ability": "After a 0.625-second delay, calls down a solar ray that deals 175 / 250 / 325 magic damage and Slow icon slows all enemies within a 3x3 for 5 / 8 / 11 seconds. The enemy in the center is instead Stun icon stunned for the same duration.",
+			"img": "https://i.imgur.com/gzULVs4"
+		},
+		{
+			"name": "Lucian",
+			"tier": 2,
+			"class": ["Noble", "Gunslinger"],
+			"ability": "Dashes away from the target enemy and then attacks twice. The first attack deals physical damage, while the second deals 150 / 250 / 350 magic damage.",
+			"img": "https://i.imgur.com/puKEsxD"
+		},
+		{
+			"name": "Lulu",
+			"tier": 2,
+			"class": ["Yordle", "Sorcerer"],
+			"ability": "Grants 1 / 2 / 3 allies 300 / 475 / 650 bonus health for 6 seconds, Airborne icon knocking up enemies near them for 1.25 seconds.",
+			"img": "https://i.imgur.com/88VwSK9"
+		},
+		{
+			"name": "Miss Fortune",
+			"tier": 5,
+			"class": ["Pirate", "Gunslinger"],
+			"ability": "Channels for 3 seconds and fires 14 waves of bullets in a cone, dealing 57.14 / 89.29 / 121.43 magic damage with each wave. The channel can deal a total of 800 / 1250 / 1700 magic damage.",
+			"img": "https://i.imgur.com/fiSJxIV"
+		},
+		{
+			"name": "Mordekaiser",
+			"tier": 1,
+			"class": ["Phantom", "Knight"],
+			"ability": "Slam forward in a 3-hex line, dealing 200 / 325 / 450 magic damage to the two closest enemies within.",
+			"img": "https://i.imgur.com/y2Vcc6O"
+		},
+		{
+			"name": "Morgana",
+			"tier": 3,
+			"class": ["Demon", "Sorcerer"],
+			"ability": "After a 0.5-second delay, fires chains to nearby enemies up to 3 hexes away, dealing 200 / 325 / 450 magic damage, and Slow icon slowing them by 20% while the chains hold. After 3 seconds if the chains held, deals the same damage and Stun icon stuns them for 2 / 4 / 6 seconds.",
+			"img": "https://i.imgur.com/d4XAecx"
+		},
+		{
+			"name": "Nidalee",
+			"tier": 1,
+			"class": ["Wild", "Shapeshifter"],
+			"ability": "After a 0.5-second delay, heals herself and the weakest ally over 6 seconds, healing for a total of 150 / 375 / 600 health, then transforms into a Melee role melee attacker for 60 seconds, gaining 20 / 70 / 120 attack damage.",
+			"img": "https://i.imgur.com/m4xzKf2"
+		},
+		{
+			"name": "Poppy",
+			"tier": 3,
+			"class": ["Yordle", "Knight"],
+			"ability": "After charging for 0.75 seconds, swings her hammer at 1 / 2 / 3 closest enemies, dealing 300 / 500 / 700 magic damage in a line, Airborne icon knocking up for 1 second and Stun icon stunning for 2 / 3 / 4 seconds.",
+			"img": "https://i.imgur.com/SovObYT"
+		},
+		{
+			"name": "Pyke",
+			"tier": 2,
+			"class": ["Pirate", "Assassin"],
+			"ability": "Dash behind the furthest enemy, creating a 1 second afterimage that then follows to deal 150 / 200 / 250 magic damage and Stun icon stun all enemies it passes through for 2 / 2.5 / 3 seconds.",
+			"img": "https://i.imgur.com/3S8XeOp"
+		},
+		{
+			"name": "Rek'Sai",
+			"tier": 2,
+			"class": ["Void", "Brawler"],
+			"ability": "Burrows into the ground, becoming untargetable for 1 second while healing each 0.5 seconds for 150 / 300 / 450 health in total. She then unburrows, dealing 200 / 350 / 500 magic damage and Airborne icon knocking up for 1.75 seconds the closest enemy.",
+			"img": "https://i.imgur.com/KVeQNKj"
+		},
+		{
+			"name": "Rengar",
+			"tier": 3,
+			"class": ["Wild", "Assassin"],
+			"ability": "Leaps at the weakest enemy, dealing 200 / 300 / 400% AD physical damage. After leaping, for 6 seconds, he gains 25% critical strike chance and increases his total attack speed by 40 / 70 / 100%.",
+			"img": "https://i.imgur.com/V1HgZkK"
+		},
+		{
+			"name": "Sejuani",
+			"tier": 4,
+			"class": ["Glacial", "Knight"],
+			"ability": "Creates a large glacial storm that detonates after 2 seconds, dealing 100 / 175 / 250 magic damage and Stun icon stunning for 2 / 4 / 6 seconds enemies within it.",
+			"img": "https://i.imgur.com/DGqL1tk"
+		},
+		{
+			"name": "Shen",
+			"tier": 2,
+			"class": ["Ninja", "Blademaster"],
+			"ability": "Creates a zone around himself that follows him for 3 / 4 / 5 seconds, allowing allies inside to Blind icon dodge all attacks.",
+			"img": "https://i.imgur.com/dBYEOzT"
+		},
+		{
+			"name": "Shyvana",
+			"tier": 3,
+			"class": ["Dragon", "Shapeshifter"],
+			"ability": "Dashes and transforms into a Ranged role ranged attacker for 60 seconds, gaining 100 / 150 / 200 attack damage and attack range. When transformed, her attacks set enemies on fire, dealing 250 / 375 / 500 magic damage over 3 seconds.",
+			"img": "https://i.imgur.com/OsOniBE"
+		},
+		{
+			"name": "Swain",
+			"tier": 5,
+			"class": ["Demoon", "Imperial", "Shapeshifter"],
+			"ability": "Transforms for 6 seconds, dealing 50 / 100 / 150 magic damage to all nearby enemies with each tick while healing for 50 / 90 / 130 health with each tick. At the end of his transformation, sends out a burst of energy dealing 300 / 600 / 900 magic damage to nearby enemies.",
+			"img": "https://i.imgur.com/8MP5R8Z"
+		},
+		{
+			"name": "Tristana",
+			"tier": 1,
+			"class": ["Yordle", "Gunslinger"],
+			"ability": "Plant a bomb on the target enemy that detonates after 4 seconds or 3 basic attacks, dealing 60 / 90 / 120 magic damage to enemies within 2 hexes. The damage is increased by 50% with each basic attack, dealing up to 150 / 225 / 300 magic damage.",
+			"img": "https://i.imgur.com/8ZdG5kl"
+		},
+		{
+			"name": "Twisted Fate",
+			"tier": 2,
+			"class": ["Pirate", "Sorcerer"],
+			"ability": "After a small delay, randomly selects one of three cards, enhancing his next basic attack to deal 150 / 250 / 350 bonus magic damage and apply an additional effect:\nBlue Card Blue Card: Restores 20 / 35 / 50 mana to himself and surrounding allies.\nRed Card Red Card: Deals the same magic damage to enemies surrounding the target.\nGold Card Gold Card: Stun icon Stuns the target for 2 / 3 / 4 seconds.",
+			"img": "https://i.imgur.com/3nodTHu"
+		},
+		{
+			"name": "Varus",
+			"tier": 2,
+			"class": ["Demon", "Ranger"],
+			"ability": "After charging for 1.5 seconds, fires an arrow up to 8 hexes away, dealing 300 / 550 / 800 magic damage to all enemies hit.",
+			"img": "https://i.imgur.com/mi5Dctt"
+		},
+		{
+			"name": "Vayne",
+			"tier": 1,
+			"class": ["Noble", "Ranger"],
+			"ability": "Basic attacks apply a Silver Bolts stack. Attacking a new enemy removes all stacks from the previous target.\nThe third stack consumes them all to deal 8 / 10 / 12% of target's maximum health bonus true damage.",
+			"img": "https://i.imgur.com/AfueQ7a"
+		},
+		{
+			"name": "Veigar",
+			"tier": 3,
+			"class": ["Yordle", "Sorcerer"],
+			"ability": "Deals 300 / 500 / 700 magic damage to the target enemy. If the target is a lower star level than Veigar, the target is executed.",
+			"img": "https://i.imgur.com/gi2S2XH"
+		},
+		{
+			"name": "Vi",
+			"tier": 3,
+			"class": ["Hextech", "Brawler"],
+			"ability": "Charges down the furthest enemy, Airborne icon knocking aside anyone in her way and dealing 250 / 400 / 550 magic damage to them. Upon reaching her target, Airborne icon knocks them up for 2 / 2.5 / 3 seconds and deals the same magic damage.",
+			"img": "https://i.imgur.com/46zs3fx"
+		},
+		{
+			"name": "Volibear",
+			"tier": 3,
+			"class": ["Glacial", "Brawler"],
+			"ability": "For 20 seconds, gains 8% increased size and empowers his basic attacks to bounce to up to 3 / 4 / 5 enemies 1 hex away, dealing 80 / 90 / 100% AD physical damage to secondary targets, and applying on-hit effects.",
+			"img": "https://i.imgur.com/p5xbXm6"
+		},
+		{
+			"name": "Warwick",
+			"tier": 1,
+			"class": ["Wild", "Brawler"],
+			"ability": "Pounces onto the lowest health enemy, Stun icon stunning them for 1.5 seconds, applying on-hit effects and dealing 150 / 225 / 300 magic damage over 3 hits and healing over the duration.",
+			"img": "https://i.imgur.com/ATIXl1U"
+		},
+		{
+			"name": "Yasuo",
+			"tier": 5,
+			"class": ["Exile", "Blademaster"],
+			"ability": "Stab in a 2-hex line, applying on-hit effects and dealing 150 / 350 / 550 magic damage. Every third cast instead launches a tornado in a 6-hex line, dealing the same magic damage and Airborne icon knocking up enemies for 1.5 seconds.",
+			"img": "https://i.imgur.com/sTTvzaE"
+		},
+		{
+			"name": "Zed",
+			"tier": 2,
+			"class": ["Ninja", "Assassin"],
+			"ability": "Throw a shuriken in a 4-hex line, dealing 200 / 300 / 400 magic damage to enemies passed.",
+			"img": "https://i.imgur.com/ij1xbmZ"
+		}
+	]
+}
